@@ -12,7 +12,7 @@ Você poderia definir uma classe base para a aplicação web que poderia ser o p
 
 Entretanto, você necessitou introduzir o conceito temas. Assim, cada aplicação web passou a fornecer suporte a diferentes temas. Então, você rascunhou um novo modelo conforme imagem abaixo.
 
-![](Aspose.Words.3eaaf9f1-0329-472c-bf4b-b70d153399d7.004.png)
+![](./readme/Aspose.Words.3eaaf9f1-0329-472c-bf4b-b70d153399d7.004.png)
 
 Nesse contexto, qual o problema para a solução fornecida? Como resolver o problema identificado?
 
