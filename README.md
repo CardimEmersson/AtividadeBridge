@@ -8,7 +8,7 @@ Talvez você queira usar o framework para criar blogs, sites de notícias, lojas
 
 Você poderia definir uma classe base para a aplicação web que poderia ser o pai de todos os diferentes tipos de aplicações web. Então, inicialmente você rascunhou o projeto a seguir:
 
-![](Aspose.Words.3eaaf9f1-0329-472c-bf4b-b70d153399d7.003.png)
+![](./readme/Aspose.Words.3eaaf9f1-0329-472c-bf4b-b70d153399d7.003.png)
 
 Entretanto, você necessitou introduzir o conceito temas. Assim, cada aplicação web passou a fornecer suporte a diferentes temas. Então, você rascunhou um novo modelo conforme imagem abaixo.
 
