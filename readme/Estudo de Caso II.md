@@ -1,4 +1,4 @@
-**Curso: Análise e Desenvolvimento de Sistemas![](Aspose.Words.3eaaf9f1-0329-472c-bf4b-b70d153399d7.002.png)**
+**Curso: Análise e Desenvolvimento de Sistemas**
 
 **Estudo de Caso II**
 
